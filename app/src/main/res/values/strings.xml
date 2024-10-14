@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">hololiveApps</string>
+    <string name="hololive_gen">Hololive Indonesia</string>
+    <string name="hololive_desc">Deskripsi Hololive</string>
+    <string name="about">About</string>
+    <string name="grid">Grid</string>
+    <string name="back">Back</string>
+    <string name="list">List</string>
+    <string name="holo_name">Hololive Member</string>
+    <string-array name="data_name">
+        <item>Ayunda Risu</item>
+        <item>Moona Hoshinova</item>
+        <item>Airani Iofifteen</item>
+        <item>Kureiji Ollie</item>
+        <item>Anya Melfissa</item>
+        <item>Pavolia Hoshinova</item>
+        <item>Vestia Zeta</item>
+        <item>Kaela Kovalskia</item>
+        <item>Kobo Kanaeru</item>
+        <item>Mori Calliope</item>
+    </string-array>
+    <string-array name="data_desc">
+        <item>HololiveID Gen 1</item>
+        <item>HololiveID Gen 1</item>
+        <item>HololiveID Gen 1</item>
+        <item>HololiveID Gen 1</item>
+        <item>HololiveID Gen 1</item>
+        <item>HololiveID Gen 1</item>
+        <item>HololiveID Gen 1</item>
+        <item>HololiveID Gen 1</item>
+        <item>HololiveID Gen 1</item>
+        <item>HololiveID Gen 1</item>
+
+    </string-array>
+    <string-array name="data_detail">
+        <item>Moona</item>
+        <item>Moona</item>
+        <item>Moona</item>
+        <item>Moona</item>
+        <item>Moona</item>
+        <item>Moona</item>
+        <item>Moona</item>
+        <item>Moona</item>
+        <item>Moona</item>
+        <item>Moona</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/anya</item>
+        <item>@drawable/anya</item>
+        <item>@drawable/anya</item>
+        <item>@drawable/anya</item>
+        <item>@drawable/anya</item>
+        <item>@drawable/anya</item>
+        <item>@drawable/anya</item>
+        <item>@drawable/anya</item>
+        <item>@drawable/anya</item>
+        <item>@drawable/anya</item>
+
+    </integer-array>
+</resources>
